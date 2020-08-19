@@ -1,9 +1,1 @@
-spring:
-  datasource:
-    platform: postgres
-    url: jdbc:postgresql://localhost:5432/rent_car_microserv_proj_db
-    username: postgres
-    password: 1568996
-    driverClassName: org.postgresql.Driver
- 
-        
+       
